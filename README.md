@@ -48,7 +48,7 @@ Feel free to fork this repository and submit pull requests. Suggestions and impr
 
 This project is licensed under the MIT License.
 
-####### Contact
+###### Contact
 
 For any queries, feel free to reach out:
 
