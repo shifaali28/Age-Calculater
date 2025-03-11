@@ -16,11 +16,11 @@ Lightweight and fast performance
 
 ### Technologies Used
 
-Programming Language: [Specify your language, e.g., Dart (Flutter), Java, Python, etc.]
+Programming Language: Dart (Flutter), Java, Python, etc
 
-Frameworks/Libraries: [Mention any relevant libraries]
+Frameworks/Libraries: cupertino_icons
 
-IDE: [Mention the IDE used, e.g., Android Studio, VS Code]
+IDE:  Android Studio VS Code
 
 ####  Installation
 
